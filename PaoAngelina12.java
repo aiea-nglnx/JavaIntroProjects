@@ -5,8 +5,6 @@ import java.util.Scanner;
  * using two custom Java objects that are self-validating and a driver class to create those objects.
  * 
  * @author     Pao, Angelina
- * @assignment ICS 111 Assignment 12
- * @date       04/27/2025
  * @bugs       Short description of bugs in the program, if any.
  */
  
