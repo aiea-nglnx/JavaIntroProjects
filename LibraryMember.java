@@ -5,8 +5,7 @@ import java.util.Scanner;
  * an environment by creating classes for 2 related objects.
  * 
  * @author     Pao, Angelina
- * @assignment ICS 111 Assignment 12 - Object 1
- * @date       04/27/2025
+ * @thing      Object 1
  * @bugs       Short description of bugs in the program, if any.
  */
  
