@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * An interactive program Java program that models
  * an environment by creating classes for 2 related objects.
